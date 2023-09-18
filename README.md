@@ -10,7 +10,7 @@ This GitHub repository contains an implementation of a Kalman filter for sensor 
 
 ## Input Data Explanation
 
-The input data for this project is stored in a .txt file, which you can find at [Link to the data](link). The file follows the following format:
+The input data for this project is stored in a .txt file, which you can find at data folder. The file follows the following format:
 
 - **Line 1:** Initial position (x, y)
 - **From Line 2 onward:** Data for each state
